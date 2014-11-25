@@ -5,8 +5,8 @@ mindspread
 
 Mapping the conscious 
 
-*Brain <h3> | *Body <h3)
-------------|-----------
+Brain <h3>| Body <h3>
+----------|-----------
 Cognition | Ability
 Thinking  | Doing
 
