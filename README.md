@@ -14,7 +14,7 @@ Thinking  | Doing
 
 1. Review the Plex
 2. Use Associations
- *Parents
- *Childs
- *Siblings 
+ * Parents
+ * Childs
+ * Siblings 
 3. Take Next Steps 
