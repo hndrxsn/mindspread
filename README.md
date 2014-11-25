@@ -1,7 +1,5 @@
-mindspread
-==========
 
-# The Mindspread
+# Mindspread
 
 Mapping the conscious 
 
