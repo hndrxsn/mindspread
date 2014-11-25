@@ -1,7 +1,7 @@
 
 # Mindspread
 
-Mapping the conscious 
+Information tool that moves with intuitions.
 
 Brain <h3>| Body <h3>
 ----------|-----------
